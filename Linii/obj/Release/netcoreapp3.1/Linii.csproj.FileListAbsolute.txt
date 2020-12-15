@@ -1,0 +1,12 @@
+C:\Users\VP\Desktop\Linii\bin\Release\netcoreapp3.1\Linii.exe
+C:\Users\VP\Desktop\Linii\bin\Release\netcoreapp3.1\Linii.deps.json
+C:\Users\VP\Desktop\Linii\bin\Release\netcoreapp3.1\Linii.runtimeconfig.json
+C:\Users\VP\Desktop\Linii\bin\Release\netcoreapp3.1\Linii.runtimeconfig.dev.json
+C:\Users\VP\Desktop\Linii\bin\Release\netcoreapp3.1\Linii.dll
+C:\Users\VP\Desktop\Linii\bin\Release\netcoreapp3.1\Linii.pdb
+C:\Users\VP\Desktop\Linii\obj\Release\netcoreapp3.1\Linii.AssemblyInfoInputs.cache
+C:\Users\VP\Desktop\Linii\obj\Release\netcoreapp3.1\Linii.AssemblyInfo.cs
+C:\Users\VP\Desktop\Linii\obj\Release\netcoreapp3.1\Linii.csproj.CoreCompileInputs.cache
+C:\Users\VP\Desktop\Linii\obj\Release\netcoreapp3.1\Linii.dll
+C:\Users\VP\Desktop\Linii\obj\Release\netcoreapp3.1\Linii.pdb
+C:\Users\VP\Desktop\Linii\obj\Release\netcoreapp3.1\Linii.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "JPW7nNrsXxIs3mHRJFnmQ0mahGO6dLZT/k3iinRiDBr0AcDuH+KbXOMWKpStJtL9c4FULj7xVQygoaM1vJP+YQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\VP\\Desktop\\Linii\\Linii.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\VP\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.10\\microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
+    "C:\\Users\\VP\\.nuget\\packages\\microsoft.netcore.app.ref\\3.1.0\\microsoft.netcore.app.ref.3.1.0.nupkg.sha512",
+    "C:\\Users\\VP\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.10\\microsoft.netcore.app.host.win-x64.3.1.10.nupkg.sha512",
+    "C:\\Users\\VP\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.1.0\\microsoft.windowsdesktop.app.ref.3.1.0.nupkg.sha512"
+  ],
+  "logs": []
+}
